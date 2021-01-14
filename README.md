@@ -3,15 +3,11 @@
 * [示範影片連結](https://youtu.be/JTiczNOaXB0)
 
 ---
-***
----
 
 ## 語言環境
 * 語言 : SystemVerilog
 * 開發環境 : Quartus 13.1
 
----
-***
 ---
 
 ## 使用到的 sensor
@@ -22,8 +18,6 @@
 * 蜂鳴器Buzzer : 遊戲配樂
 * 1 bit 指撥開關 * 4 : 三個為難度調整、一個為reset鍵
 
----
-***
 ---
 
 ## 功能
