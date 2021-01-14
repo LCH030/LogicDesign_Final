@@ -1,7 +1,15 @@
 # LogicDesign_Final Project
+
+---
+
+## 第二十一組期末Project
+
+---
+
 ## 示範影片
 * [示範影片連結](https://youtu.be/JTiczNOaXB0)
  ![iamge](https://github.com/LCH030/LogicDesign_Final/blob/main/pic.png)
+ 
 ---
 
 ## 語言環境
